@@ -18,7 +18,7 @@ Doctors available in states :
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/EDA/blob/main/doc_img/docinstates.png?raw=true)
 
-Number of doctors availble per type : 
+Number of doctors available per type : 
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/EDA/blob/main/doc_img/typesofdoc.png?raw=true)
 
